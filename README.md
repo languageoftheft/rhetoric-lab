@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17402098.svg)](https://doi.org/10.5281/zenodo.17402098)
+
+
 # Rhetoric Lab (Starter)
 
 A small, reproducible toolkit for analyzing rhetorical patterning in text corpora (think tank reports, websites, PDFs).
