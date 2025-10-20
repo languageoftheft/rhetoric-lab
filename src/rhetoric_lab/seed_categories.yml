@@ -1,0 +1,26 @@
+# Add euphemism/dog-whistle seed categories for summary tables.
+# Each category lists phrases to track; analysis will compute frequencies and collocations.
+Economic_Freedom:
+  - economic freedom
+  - free enterprise
+  - job creators
+  - pro-growth
+  - deregulation
+Personal_Responsibility:
+  - personal responsibility
+  - dependency
+  - culture of dependency
+  - welfare dependency
+Security_and_Border:
+  - border integrity
+  - national security
+  - rule of law
+  - public safety
+Education_Privatization:
+  - school choice
+  - parental rights
+  - education freedom
+Elections:
+  - voter integrity
+  - election integrity
+  - fraud prevention

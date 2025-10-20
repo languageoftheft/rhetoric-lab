@@ -1,0 +1,14 @@
+# Add one term per line; these will be removed during analysis.
+heritage foundation
+american enterprise institute
+cato institute
+hoover institution
+manhattan institute
+heartland institute
+claremont institute
+hudson institute
+policy brief
+white paper
+press release
+united states
+washington dc

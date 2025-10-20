@@ -1,0 +1,8 @@
+# Example configuration (optional; CLI flags usually suffice)
+input_root: data/raw
+processed_root: data/processed
+outputs_root: outputs
+min_count: 5
+max_ngram: 3
+use_spacy: true
+lemmatize: true
