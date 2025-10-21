@@ -1,26 +1,231 @@
-# Add euphemism/dog-whistle seed categories for summary tables.
-# Each category lists phrases to track; analysis will compute frequencies and collocations.
-Economic_Freedom:
+# seed_categories.yml (v3)
+# Rhetoric Lab – Comprehensive Analytical Categories (1970–present)
+
+Economic_Freedom_and_Market_Rhetoric:
+  - free markets
   - economic freedom
-  - free enterprise
-  - job creators
-  - pro-growth
   - deregulation
-Personal_Responsibility:
-  - personal responsibility
-  - dependency
-  - culture of dependency
+  - free enterprise
+  - market solutions
+  - competition
+  - regulatory efficiency
+  - entrepreneurship
+  - tax relief
+  - tax cuts
+  - pro-growth
+  - fiscal discipline
+  - supply-side economics
+  - flat tax
+  - regulatory burden
+  - job creators
+  - growth agenda
+  - capitalism
+  - economic liberty
+  - prosperity through freedom
+  - anti-communism
+  - anti-socialism
+  - anti-marxism
+
+Welfare_State_and_Entitlements:
+  - welfare state
+  - nanny state
+  - entitlement reform
+  - welfare reform
+  - means testing
+  - work requirements
+  - dependency culture
   - welfare dependency
-Security_and_Border:
-  - border integrity
-  - national security
-  - rule of law
-  - public safety
-Education_Privatization:
+  - safety net
+  - personal responsibility
+
+Government_and_Bureaucracy_Framing:
+  - big government
+  - government overreach
+  - red tape
+  - bureaucracy
+  - bloated bureaucracy
+  - taxpayer burden
+  - wasteful spending
+  - government inefficiency
+  - runaway regulation
+  - administrative state
+  - unelected bureaucrats
+  - reform government
+  - streamline
+
+Moral_and_Cultural_Language:
+  - family values
+  - moral decay
+  - virtue
+  - faith-based
+  - traditional values
+  - cultural decline
+  - social cohesion
+  - moral clarity
+  - civic virtue
+  - community renewal
+  - religious liberty
+
+Individualism_and_Responsibility:
+  - personal responsibility
+  - self-reliance
+  - independence
+  - hard work
+  - freedom of choice
+  - individual initiative
+  - work ethic
+  - self-sufficiency
+
+Cultural_and_Free_Speech_Rhetoric:
+  - freedom of speech
+  - free expression
+  - First Amendment
+  - Second Amendment
+  - academic freedom
+  - viewpoint discrimination
+  - ideological conformity
+  - political correctness
+  - cancel culture
+  - woke
+  - cultural Marxism
+  - thought police
+  - DEI
+  - CRT
+  - ESG
+
+Education_and_Meritocracy:
   - school choice
+  - educational freedom
   - parental rights
-  - education freedom
-Elections:
-  - voter integrity
+  - charter schools
+  - voucher programs
+  - merit-based
+  - accountability
+  - excellence
+  - student achievement
+  - curriculum transparency
+  - classical education
+
+National_Security_and_Borders:
+  - national security
+  - sovereignty
+  - law and order
+  - border integrity
+  - secure borders
+  - immigration control
+  - illegal immigration
+  - catch and release
+  - sanctuary cities
+  - homeland protection
+  - threats abroad
+  - strength and deterrence
+
+Crime_and_Policing:
+  - tough on crime
+  - broken windows
+  - quality of life offenses
+  - bail reform
+  - prosecutorial discretion
+  - defund the police
+
+Corporate_and_Technocratic_Language:
+  - innovation
+  - human capital
+  - productivity
+  - competitiveness
+  - global leadership
+  - efficiency gains
+  - management reform
+  - best practices
+  - evidence-based
+  - data-driven
+  - results oriented
+  - benchmarks
+  - metrics of success
+
+Environmental_and_Regulatory_Denial:
+  - climate alarmism
+  - environmental extremism
+  - EPA overreach
+  - carbon hysteria
+  - green agenda
+  - net zero
+  - permitting reform
+  - war on coal
+  - energy dominance
+  - energy security
+  - energy independence
+  - balanced approach
+
+Anti_Union_and_Labor_Frames:
+  - right to work
+  - workplace freedom
+  - labor flexibility
+  - union bosses
+  - public sector unions
+  - collective bargaining
+  - project labor agreements
+  - prevailing wage
+  - employee choice
+  - competitive wages
+  - modern workforce
+
+Race_and_Social_Order_Euphemisms:
+  - colorblind society
+  - reverse discrimination
+  - merit over identity
+  - community stability
+  - responsible citizenship
+  - law and order
+  - opportunity for all
+
+Health_Policy_and_Markets:
+  - Obamacare
+  - Affordable Care Act
+  - Medicaid expansion
+  - single-payer
+  - price transparency
+  - health savings accounts
+  - market-based healthcare
+  - patient choice
+
+Foreign_Policy_and_Globalization:
+  - free trade
+  - open markets
+  - Western leadership
+  - American strength
+  - global competitiveness
+  - peace through strength
+  - strategic alliances
+  - rules-based order
+
+Public_Private_Partnerships_and_Privatization:
+  - public-private partnership
+  - privatization
+  - contracting out
+  - competitive sourcing
+  - innovation through markets
+  - efficiency reform
+  - lean government
+  - modernization
+
+Election_and_Voting_Rhetoric:
+  - ballot harvesting
+  - voter ID
+  - voting integrity
   - election integrity
-  - fraud prevention
+  - ballot box
+  - mail-in ballots
+  - absentee ballots
+  - signature verification
+  - voter fraud
+  - duplicate registrations
+  - voter roll purge
+  - citizens-only voting
+  - motor voter
+  - common sense laws
+  - secure elections
+  - fair elections
+  - election security
+  - voter confidence
+  - stolen election
