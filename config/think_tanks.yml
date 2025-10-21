@@ -1,0 +1,56 @@
+# think_tanks.yml
+# Metadata for rhetorical and historical context
+
+Manhattan Institute:
+  founded: 1977
+  orientation: Neoconservative / free-market urban policy
+  description: >
+    Founded by Antony Fisher and William J. Casey, the Manhattan Institute promotes market-based approaches to social and urban policy. It emphasizes deregulation, policing, and privatization of public services.
+
+Heritage Foundation:
+  founded: 1973
+  orientation: Conservative / Christian Right / Pro-business
+  description: >
+    A flagship conservative think tank advocating for limited government, traditional values, and free enterprise. Major influence on Reagan-era and Trump-era policy platforms.
+
+American Enterprise Institute:
+  founded: 1938
+  orientation: Conservative / Pro-corporate / Internationalist
+  description: >
+    Focuses on economics, foreign policy, and government regulation. Advocates for supply-side economics, deregulation, and strong national defense.
+
+Hoover Institution:
+  founded: 1919
+  orientation: Conservative / Classical liberal / Academic-affiliated
+  description: >
+    Based at Stanford University, it produces scholarship emphasizing free markets, constitutionalism, and individual liberty. Deep ties to Cold War policy-making.
+
+Cato Institute:
+  founded: 1977
+  orientation: Libertarian / Anti-regulatory / Anti-interventionist
+  description: >
+    Promotes individual liberty, limited government, and free markets. Focuses on civil liberties, taxation, and skepticism of foreign intervention.
+
+Heartland Institute:
+  founded: 1984
+  orientation: Libertarian / Climate denial / Deregulatory
+  description: >
+    Known for opposing climate science consensus and environmental regulation. Publishes work defending fossil fuel industries and questioning federal oversight.
+
+Hudson Institute:
+  founded: 1961
+  orientation: Neoconservative / Defense-focused / Foreign policy
+  description: >
+    Focuses on U.S. global strategy, military preparedness, and industrial innovation. Historically linked to Cold War strategic research.
+
+McKinsey Global Institute:
+  founded: 1990
+  orientation: Corporate / Technocratic / Global capitalism
+  description: >
+    The research arm of McKinsey & Company. Produces reports on global productivity, capital markets, and labor trends, often reflecting corporate management frameworks.
+
+Mackinac Center for Public Policy:
+  founded: 1987
+  orientation: Libertarian / State-level deregulation / Anti-union
+  description: >
+    Michigan-based think tank advocating for limited government, privatization of education, and anti-labor policies. Model for state-level conservative policy influence.
